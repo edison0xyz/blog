@@ -2,9 +2,7 @@
 title: About
 permalink: /about/
 ---
-
-Hi, I'm Edison 
-
+Edison
 
 ## Credits
 
